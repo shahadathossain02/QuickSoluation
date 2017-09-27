@@ -1,0 +1,1 @@
+https://github.com/rokonsr/POSEdition/blob/master/POS/Views/Shared/_Layout.cshtml
